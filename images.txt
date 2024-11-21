@@ -1,2 +1,1 @@
-nginx
-pythen:slpine3.19
+xiaoyaliu/alist
